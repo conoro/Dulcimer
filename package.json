@@ -14,7 +14,7 @@
     "async": "^0.2.10",
     "base60": "0.0.1",
     "padlock": "~1.1.2",
-    "leveldown": "1.4.0",
+    "leveldown": "1.4.1",
     "concat-stream": "^1.4.4",
     "bignum": "*",
     "uuid-v4": "^0.1.0",
